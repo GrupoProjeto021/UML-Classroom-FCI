@@ -33,16 +33,17 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+*&lt;Aprimoramento de Drones&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Funcionais:
-centram de controle: Um painel em tempo real para gerenciar os drones é essencial para o controle, assim conseguindo averiguar como está as operações de cada drone
+Central de controle: 
+Um painel em tempo real para gerenciar os drones é essencial para o controle, assim conseguindo averiguar como está as operações de cada drone
 Caso esse painel for muito complicado para utilizar pode complicar toda a operação 
 
 Sistema de navegação inteligente:
 Sensores de boa qualidade deixam os drones mais inteligentes e garantem maior sucesso nas missões, também evita problemas futuros 
-Ia e redes neurais podem acabar usando muito processamento, atrapalhando o funcionamento 
+IA e redes neurais podem acabar usando muito processamento, atrapalhando o funcionamento 
 
 Gerenciamento de navegação:
 Uma comunicação segura é uma peça fundamental para manter a operação boa segura secreta e evitar interceptações de inimigos.
@@ -69,7 +70,7 @@ Com o histórico de invasões, o sistema de segurança deve ser constantemente a
 Gerenciamento de banco de dados:
 O sistema precisa assegurar que os dados dos drones sejam consistentes e sincronizados instantaneamente. Além disso, é necessário armazenar o histórico de missões para auditorias e previsões futuras, assim conseguindo rever e melhorar erros passados. O banco de dados deve ser distribuído e replicado para manter a operação contínua e bem limpa.
 
-Os drones utilizam um sistema operacional embarcado que deve administrar várias threads simultaneamente, incluindo sensores, navegação e inteligência artificial, ou seja, necessitamos de um hardware de qualidade para evitar problemas. Além disso, o sistema precisa priorizar os processos de acordo com a criticidade da missão, missões de maior risco merecem maior prioridade.&gt;*
+Os drones utilizam um sistema que deve administrar várias threads simultaneamente, incluindo sensores, navegação e inteligência artificial, ou seja, necessitamos de um hardware de qualidade para evitar problemas. Além disso, o sistema precisa priorizar os processos de acordo com a criticidade da missão, missões de maior risco merecem maior prioridade.&gt;*
 
 # Diagrama de Atividades
 
