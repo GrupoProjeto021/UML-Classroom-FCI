@@ -37,6 +37,7 @@
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Funcionais:
+
 Central de controle: 
 Um painel em tempo real para gerenciar os drones é essencial para o controle, assim conseguindo averiguar como está as operações de cada drone
 Caso esse painel for muito complicado para utilizar pode complicar toda a operação 
@@ -59,16 +60,16 @@ Caso for muito burocrático, pode irritar usuários ou atrasar projetos
 
 
 Requisitos não funcionais:
-Arquitetura
-Com uma alta latência, o tempo de resposta dos drones é maior, onde numa missão, é inaceitável. Com a melhora da latência o funcionamento dos drones seria bem melhor.
-Além de comunicações interceptadas, revelando todo o objetivo e segredos
+
+Arquitetura:
+Com uma alta latência, o tempo de resposta dos drones é maior, onde numa missão, é inaceitável. Com a melhora da latência o funcionamento dos drones seria mais otimizado.
 Sem um failover automático, caso caia a rede os drones ficam inoperáveis, podendo ser interceptados e serem capturados por mãos erradas
 
 Segurança:
 Com o histórico de invasões, o sistema de segurança deve ser constantemente atualizado e bem robusto, evitando falhas e roubo de informações, assim os hackers não conseguirão nenhum acesso.
 
 Gerenciamento de banco de dados:
-O sistema precisa assegurar que os dados dos drones sejam consistentes e sincronizados instantaneamente. Além disso, é necessário armazenar o histórico de missões para auditorias e previsões futuras, assim conseguindo rever e melhorar erros passados. O banco de dados deve ser distribuído e replicado para manter a operação contínua e bem limpa.
+O sistema precisa assegurar que os dados dos drones sejam consistentes e sincronizados instantaneamente. Além disso, é necessário armazenar o histórico de missões, assim conseguindo rever e melhorar erros passados. O banco de dados deve ser distribuído e replicado para manter a operação contínua e bem limpa.
 
 Os drones utilizam um sistema que deve administrar várias threads simultaneamente, incluindo sensores, navegação e inteligência artificial, ou seja, necessitamos de um hardware de qualidade para evitar problemas. Além disso, o sistema precisa priorizar os processos de acordo com a criticidade da missão, missões de maior risco merecem maior prioridade.&gt;*
 
