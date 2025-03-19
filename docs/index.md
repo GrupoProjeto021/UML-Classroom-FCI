@@ -39,24 +39,19 @@
 *&lt;Funcionais:
 
 Central de controle: 
-Um painel em tempo real para gerenciar os drones é essencial para o controle, assim conseguindo averiguar como está as operações de cada drone
-Caso esse painel for muito complicado para utilizar pode complicar toda a operação 
+Um painel em tempo real para gerenciar os drones é essencial para o controle, assim conseguindo averiguar como está as operações de cada drone.
 
 Sistema de navegação inteligente:
-Sensores de boa qualidade deixam os drones mais inteligentes e garantem maior sucesso nas missões, também evita problemas futuros 
-IA e redes neurais podem acabar usando muito processamento, atrapalhando o funcionamento 
+Sensores de boa qualidade deixam os drones mais inteligentes e garantem maior sucesso nas missões, também evita problemas futuros. 
 
 Gerenciamento de navegação:
 Uma comunicação segura é uma peça fundamental para manter a operação boa segura secreta e evitar interceptações de inimigos.
-Caso não for bem otimizado, pode gerar atraso nas respostas
 
 Banco de dados e auditoria:
-Criptografia de todas as logs das missões passadas e futuras garante uma maior segurança e evita roubo de informações 
-Um banco de dados grande pode ser muito caro e complicado de manter ativo
+Criptografia de todas as logs das missões passadas e futuras garante uma maior segurança e evita roubo de informações. 
 
 Sistemas embarcado e segurança:
-Biometria e autenticações fortes aumentam a segurança do funcionamento, evitando pessoas estranhas a adentrar o sistema
-Caso for muito burocrático, pode irritar usuários ou atrasar projetos
+Biometria e autenticações fortes aumentam a segurança do funcionamento, evitando pessoas estranhas a adentrar o sistema.
 
 
 Requisitos não funcionais:
