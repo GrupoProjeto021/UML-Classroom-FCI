@@ -45,28 +45,28 @@ Sistema de navegação inteligente:
 Sensores de boa qualidade deixam os drones mais inteligentes e garantem maior sucesso nas missões, também evita problemas futuros. 
 
 Gerenciamento de navegação:
-Uma comunicação segura é uma peça fundamental para manter a operação boa segura secreta e evitar interceptações de inimigos.
+Uma comunicação segura é peça fundamental para manter a operação boa, secreta e evitar interceptações de inimigos.
 
 Banco de dados e auditoria:
-Criptografia de todas as logs das missões passadas e futuras garante uma maior segurança e evita roubo de informações. 
+Criptografia de todas as logs das missões passadas e futuras.. Garante uma maior segurança e evita roubo de informações. 
 
 Sistemas embarcado e segurança:
-Biometria e autenticações fortes aumentam a segurança do funcionamento, evitando pessoas estranhas a adentrar o sistema.
+Biometria e autenticações fortes que aumentam a segurança do funcionamento, evitando a presença de estranhos no sistema.
 
 
 Requisitos não funcionais:
 
 Arquitetura:
-Com uma alta latência, o tempo de resposta dos drones é maior, onde numa missão, é inaceitável. Com a melhora da latência o funcionamento dos drones seria mais otimizado.
-Sem um failover automático, caso caia a rede os drones ficam inoperáveis, podendo ser interceptados e serem capturados por mãos erradas
+Com uma alta latência, o tempo de resposta dos drones é maior, o que é inaceitável em uma missão. Uma melhora na latência otimizaria o funcionamento dos drones.
+Sem um failover automático, em caso de mau funcionamento da rede, os drones ficam inoperáveis podendo ser interceptados e capturados indesejadamente.
 
 Segurança:
-Com o histórico de invasões, o sistema de segurança deve ser constantemente atualizado e bem robusto, evitando falhas e roubo de informações, assim os hackers não conseguirão nenhum acesso.
+Com o histórico de invasões, o sistema de segurança deve ser robusto e constantemente atualizado, para evitar falhas e roubo de informações, para assim hackers não conseguirem acesso.
 
 Gerenciamento de banco de dados:
-O sistema precisa assegurar que os dados dos drones sejam consistentes e sincronizados instantaneamente. Além disso, é necessário armazenar o histórico de missões, assim conseguindo rever e melhorar erros passados. O banco de dados deve ser distribuído e replicado para manter a operação contínua e bem limpa.
+É função do sistema assegurar que os dados dos drones sejam consistentes e sincronizados de forma instantânea. Além disso, é necessário armazenar o histórico de missões, assim conseguindo rever e melhorar erros passados. O banco de dados deve ser distribuído e replicado para manter a operação contínua e com bom funcionamento.
 
-Os drones utilizam um sistema que deve administrar várias threads simultaneamente, incluindo sensores, navegação e inteligência artificial, ou seja, necessitamos de um hardware de qualidade para evitar problemas. Além disso, o sistema precisa priorizar os processos de acordo com a criticidade da missão, missões de maior risco merecem maior prioridade.&gt;*
+Os drones utilizam um sistema que deve administrar várias threads simultaneamente, com a inclusão de sensores, navegação e inteligência artificial, ou seja, necessitamos de um hardware de qualidade para evitar problemas. O sistema precisa priorizar os processos levando em consideração o nível de criticidade da missão, visto que missões de maior risco devem receber maior prioridade.&gt;*
 
 # Diagrama de Atividades
 
