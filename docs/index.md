@@ -75,6 +75,9 @@ Os drones utilizam um sistema que deve administrar várias threads simultaneamen
 # Descrição dos Casos de Uso
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![image](https://github.com/user-attachments/assets/1711a232-ec0a-49e0-9072-7471279f0b4e)
+![image](https://github.com/user-attachments/assets/39d034aa-695d-414f-a31e-3b0ac21c2dcf)
+
 
 # Diagrama de Sequência
 
