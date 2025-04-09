@@ -68,14 +68,22 @@ Os drones utilizam um sistema que deve administrar várias threads simultaneamen
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
 
+![image](https://github.com/user-attachments/assets/559a5633-0759-4760-b328-eb99927d6659)
+
+
 # Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
+![image](https://github.com/user-attachments/assets/661991d7-ec46-4693-92fa-99938bad63cc)
+
+
 # Descrição dos Casos de Uso
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+
 ![image](https://github.com/user-attachments/assets/1711a232-ec0a-49e0-9072-7471279f0b4e)
+
 ![image](https://github.com/user-attachments/assets/39d034aa-695d-414f-a31e-3b0ac21c2dcf)
 
 
