@@ -6,9 +6,9 @@
 4. O dono do repositório deverá habilitar o GitHub Pages. Basta seguir o [procedimento para habilitar o GitHub Pages](https://docs.github.com/pt/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), lembrando de escolher em *Source* a opção `/docs` em lugar da opção `/root`.
 
 
-# Projeto: *<Drones Quentes>*
+# Projeto: Drones Quentes
 
-# Grupo: *<Os menor quente>*
+# Grupo: Os menor quente 
 
 # Descrição
 
