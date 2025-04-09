@@ -6,10 +6,6 @@
 *&lt;Drones Quentes&gt;*
 </center></font>
 
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
-
 **Conteúdo**
 
 - [Autores](#nome-alunos)
@@ -33,7 +29,7 @@
 
 # Descrição do Projeto
 
-*&lt;Aprimoramento de Drones&gt;*
+*&lt;Projeto “Sistema Falcão Sombrio para Drones”. A empresa fictícia Securus Dynamics desenvolve drones militares e quer melhorar seu sistema, que atualmente tem problemas de lentidão, falhas de comunicação e segurança. Por isso, contratou a turma para reformular toda a estrutura do software e do banco de dados. O novo sistema deve permitir controlar os drones de forma remota e autônoma, com comunicação segura, navegação inteligente e coleta de dados em tempo real. Os drones precisam funcionar com rapidez e segurança, mesmo em situações críticas. Para conseguirmos melhorar o drone utilizaremos a análise de requisitos, diagramas UML (como casos de uso, atividades, classes, sequência, estados e implantação).&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Funcionais:
