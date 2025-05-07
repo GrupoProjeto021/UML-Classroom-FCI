@@ -90,6 +90,7 @@ Os drones utilizam um sistema que deve administrar várias threads simultaneamen
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
+
 ![image](https://github.com/user-attachments/assets/06042ed8-1655-4df6-8908-da6cc9fb328b)
 
 
