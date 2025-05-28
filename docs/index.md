@@ -102,6 +102,9 @@ Os drones utilizam um sistema que deve administrar várias threads simultaneamen
 
 *&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
 
+![image](https://github.com/user-attachments/assets/deb8bc16-77bc-490e-83cd-b0bbd289262e)
+
+
 # Diagrama de Implantação
 
 *&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
