@@ -109,6 +109,9 @@ Os drones utilizam um sistema que deve administrar várias threads simultaneamen
 
 *&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
 
+![image](https://github.com/user-attachments/assets/3e1385ef-19bb-4dc4-88f4-e8e33ec9aeff)
+
+
 # Referências
 
 *&lt;Lista de referências&gt;*
