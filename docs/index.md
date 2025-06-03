@@ -98,6 +98,9 @@ Os drones utilizam um sistema que deve administrar várias threads simultaneamen
 
 *&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
 
+![image](https://github.com/user-attachments/assets/f29e9c3f-26ab-4e3a-9a7b-e084713f5707)
+
+
 # Diagrama de Estados
 
 *&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
